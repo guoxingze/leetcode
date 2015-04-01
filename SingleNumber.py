@@ -15,5 +15,6 @@ class Solution:
 testClass = Solution()
 testArray = [1,1,2,2,3,7,3]
 result = testClass.singleNumber(testArray)
+
 print testArray
 print result
